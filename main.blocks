@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="p?HqZ$c;4?1nc|$cqJ1y" x="432" y="-245"><statement name="HANDLER"><block type="device_show_leds" id="%xD5*YM-vieN}[~~FkSh"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        # . # . # 
+        # . # . # 
+        # . # . #
+        `</field><next><block type="device_clear_display" id="6]zK;8(~Y9Fl!hl?q~yM"><next><block type="device_pause" id=".g|ezf:NO82P?rsZMM%|"><value name="pause"><shadow type="timePicker" id=".,qe[V~xe#$FI)M)OT;5"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="|E|L9Dn.J4XMf3R/$J~t"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_clear_display" id=".cE560.My%p8x9y!KvO."><next><block type="device_pause" id="vK09C1DA)p-+jEJzpPtJ"><value name="pause"><shadow type="timePicker" id="}Nt{j1P5bTI9iljv.(/N"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="XJ2`)2?I#y^X6LD`RL2?"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        # . # . # 
+        # . # . # 
+        # . # . #
+        `</field><next><block type="device_clear_display" id="cfx8L]d#u,f{KU_l.oAD"><next><block type="device_pause" id="*?z4CH(*9(J/nER_}u`$"><value name="pause"><shadow type="timePicker" id="(Ahh0,?cXeqrHtX?+:6a"><field name="ms">500</field></shadow></value><next><block type="device_print_message" id="q)R=F`%Vm|/o^D(zRs{n"><value name="text"><shadow type="text" id=")EW?Zas!azWvV#t,wq6b"><field name="TEXT">CAN I GET SOME PIZZA ROLLS</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
